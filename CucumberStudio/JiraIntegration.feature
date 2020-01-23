@@ -13,3 +13,6 @@ Feature: Jira Integration
     Given Feature file FA is created for feature A
     When Acceptance criteria of the feature A changes
     Then Feature file FA is updated
+
+  @ORPHAN
+  Scenario: New Scenario added
