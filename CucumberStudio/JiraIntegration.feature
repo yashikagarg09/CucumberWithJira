@@ -16,3 +16,6 @@ Feature: Jira Integration
 
   @ORPHAN
   Scenario: New Scenario added
+    Given test
+    When test
+    Then test
